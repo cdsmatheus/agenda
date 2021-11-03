@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Feito por Matheus Conceição da Silva (@cdsmatheus)-->  
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.cdsmatheus.agenda"
     android:versionCode="1"
